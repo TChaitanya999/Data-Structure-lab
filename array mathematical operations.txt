@@ -42,7 +42,7 @@ int main()
 
   return 0;
 } 
-
+/*
 out put :
 Please Enter the Size of the Array
 3
@@ -54,3 +54,4 @@ Add	 Sub	 Multi	 Div	 Mod
 5 	 -3 	 4 	 0.00 	 1 	 
 7 	 -3 	 10 	 0.00 	 2 	 
 9 	 -3 	 18 	 0.00 	 3 	 
+*/
