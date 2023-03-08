@@ -31,6 +31,7 @@
         return 0;
 
    }
+/*
 out put :
 Enter the size of array 6
 6
@@ -42,3 +43,4 @@ Enter the elements of array
  Enter the 5 element3
  Enter the 6 element2
  sorted array is.....	2	3	4	7	8	9
+*/
