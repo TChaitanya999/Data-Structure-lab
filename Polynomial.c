@@ -104,3 +104,4 @@ int main() {
     printf("Sum of polynomials: ");
     writePolynomial(sum);
     return 0;
+}
