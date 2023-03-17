@@ -105,3 +105,27 @@ int main() {
     writePolynomial(sum);
     return 0;
 }
+out put :
+Enter the first polynomial:
+Enter the number of terms in the polynomial: 2
+Enter the polynomial in decreasing order of exponents:
+8
+7
+6
+5
+4
+3Enter the second polynomial:
+Enter the number of terms in the polynomial: 4
+Enter the polynomial in decreasing order of exponents:
+9
+8
+6
+5
+4
+3
+2
+1
+First polynomial: 8x^7 + 6x^4 
+Second polynomial: 9x^8 + 6x^5 + 4x^3 + 2x^1 
+Sum of polynomials: 9x^8 + 8x^7 + 6x^5 + 6x^4 + 4x^3 + 2x^1 
+
